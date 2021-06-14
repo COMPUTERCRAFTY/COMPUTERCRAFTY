@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @COMPUTERCRAFTY
+- 👋 Hi, I’m COMPUTERCRAFTY, my real name is Rehan Malhotra haha.
 - 👀 I’m interested in Programming and Game development...
 - 🌱 I’m currently learning JAVASCRIPT and C#.
 - 💞️ I’m looking to collaborate on my Unity projects if you C#. if yes, then contact me hehe.
